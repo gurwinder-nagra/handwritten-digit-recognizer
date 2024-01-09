@@ -32,24 +32,38 @@ Make sure you have the following installed:
 
 ```bash
 pip install gradio==3.50.2
-Installation
+```
+
+#Installation
+
 Clone the repository:
 
-
+```bash
 git clone https://github.com/gurwinder-nagra/handwritten-digit-recognizer.git
+```
+
 Navigate to the project directory:
 
-
+```bash
 cd handwritten-digit-recognizer
+```
+
 Install dependencies:
 
-
+```bash
 pip install -r requirements.txt
-Usage
+```
+
+Usage:
+
 Run the Gradio app with the following command:
 
+```bash
 python app.py
+```
+
 Visit the provided URL in your web browser to interact with the Handwritten Digit Recognizer. Draw a digit on the canvas, and the model will recognize it in real time.
 
 Example
 ![image](https://github.com/gurwinder-nagra/handwritten-digit-recognizer/assets/101449053/ca1ea6e4-69be-4262-a503-856f2c764cc8)
+![Screenshot 2024-01-09 143512](https://github.com/gurwinder-nagra/handwritten-digit-recognizer/assets/101449053/7457f41a-a47d-4b10-b031-a2afdc2934b8)
