@@ -34,8 +34,7 @@ Make sure you have the following installed:
 pip install gradio==3.50.2
 ```
 
-
-##Installation
+## Installation
 
 Clone the repository:
 
