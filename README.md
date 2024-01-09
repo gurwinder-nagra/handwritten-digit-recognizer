@@ -66,4 +66,3 @@ Visit the provided URL in your web browser to interact with the Handwritten Digi
 
 Example
 ![image](https://github.com/gurwinder-nagra/handwritten-digit-recognizer/assets/101449053/ca1ea6e4-69be-4262-a503-856f2c764cc8)
-![Screenshot 2024-01-09 143512](https://github.com/gurwinder-nagra/handwritten-digit-recognizer/assets/101449053/7457f41a-a47d-4b10-b031-a2afdc2934b8)
